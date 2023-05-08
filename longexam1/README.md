@@ -11,7 +11,7 @@
 - You did not follow the instructions.
 - The code has error/bugs.
 
-**5. Upload your work in your exam repository CCOBJPGL_EXAM_<section>**
+**5. Upload your work in your exam repository CCOBJPGL_EXAM_sectionname**
 
 Good luck! You can do it! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
 
